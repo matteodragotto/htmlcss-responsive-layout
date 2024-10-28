@@ -24,9 +24,21 @@
     flex-wrap: wrap;    
   }
 
+  .btn{
+    padding: 10px 50px;
+  }
+
   .recipe-info .quick-notes ul li{ 
     width: calc(100% / 3);
     padding-right: 68px;
+  }
+
+  .social-networks{
+    margin-bottom: 40px;
+  }
+
+  .ads{
+    display: contents;
   }
 }
 
