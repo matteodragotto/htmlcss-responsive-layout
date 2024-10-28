@@ -5,7 +5,10 @@
   #topbar{
     justify-content: left;
   }
-
+  
+  main{
+    padding: 40px;
+  }
 }
 
 @media screen and (min-width: 992px){
