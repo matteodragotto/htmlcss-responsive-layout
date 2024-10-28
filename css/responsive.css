@@ -18,6 +18,16 @@
   .recipe-origin{
     display: contents;
   }
+
+  .recipe-info .quick-notes ul{
+    display: flex;
+    flex-wrap: wrap;    
+  }
+
+  .recipe-info .quick-notes ul li{ 
+    width: calc(100% / 3);
+    padding-right: 68px;
+  }
 }
 
 @media screen and (min-width: 992px){
