@@ -41,7 +41,7 @@
   }
 
   .btn{
-    padding: 10px 50px;
+    flex-basis: 20%;
   }
 
   .recipe-info .quick-notes ul li{ 
@@ -130,7 +130,7 @@
 
   .btn{
     font-size: 18px;
-    padding: 10px 60px;
+    flex-basis: 20%;
   }
 
   .quick-notes li{
@@ -152,8 +152,8 @@
 /*BONUS*/
 @media screen and (min-width: 576px){
   
-  .btn{
-    padding: 10px 35px;
+  .social-networks .btn{
+    flex-basis: 20%;
   }
   
   .presentation img{
